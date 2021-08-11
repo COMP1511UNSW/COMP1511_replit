@@ -1,0 +1,2 @@
+run = "./dcc main.c -o main"
+language = "C"
